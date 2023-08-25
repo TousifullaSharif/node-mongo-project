@@ -1,0 +1,17 @@
+{
+  "name": "mongo-project",
+  "version": "1.0.0",
+  "description": "node app to connect mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tousifulla Sharif",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mogoose": "^0.0.1-security",
+    "mongodb": "^5.8.1",
+    "mongoose": "^7.4.4"
+  }
+}
